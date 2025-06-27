@@ -7,7 +7,6 @@
 .fabric/
 cache/
 logs/
-world/
 versions/
 
 # User-specific files
